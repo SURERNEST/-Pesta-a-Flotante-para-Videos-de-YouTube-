@@ -35,7 +35,7 @@ Una aplicación de escritorio en Python que te permite abrir videos de YouTube e
 
 - Correo: not.boris.yt@gmail.com  
 - Discord: bochisline  
-- Instagram: @bochislineeeee
+- Instagram: @bochisline__
 
 ---
 
